@@ -1,9 +1,5 @@
-import os
-
 from pydub import AudioSegment
 import numpy as np
-import scipy
-from scipy.io import wavfile
 import librosa
 import soundfile as sf
 
